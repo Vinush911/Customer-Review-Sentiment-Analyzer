@@ -1,0 +1,21 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Streamlit configuration and secrets
+.streamlit/
+
+# Local evaluation outputs
+evaluation_results.json
